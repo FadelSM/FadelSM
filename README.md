@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+Welcome;Thanks+for+coming+to+my+bio++↓)](https://github.com/Renlikesmoon)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+Welcome;Thanks+for+coming+to+my+bio++↓)](https://github.com/FadelSM)<br>
 <img src="https://media1.tenor.com/m/-2RqkfHI_w4AAAAC/%E5%A4%9C%E6%AB%BB%E5%AE%B6%E5%A4%A7%E4%BD%9C%E6%88%B0-yozakura-san-chi-no-daisakusen.gif" align="center">
 
 # Introduce - Profile #
@@ -9,8 +9,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/Renlikesmoon?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Renlikesmoon?style=social)
 
-**Renlikesmoon:**
-Hi There!, my name is Darren as Ren Aldridge. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
+**FadelSM:**
+Hi There!, my name is Fadel as Ren Aldridge. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
 
 I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known as the Volks bot. I'm here working as **Lead Developer of HazakuraComp**, My job is to fix problems related to bot handling.
 
