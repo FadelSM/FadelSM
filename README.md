@@ -12,7 +12,7 @@
 **FadelSM:**
 Hi There!, my name is Fadel as Ren Aldridge. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
 
-I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known as the Volks bot. I'm here working as **Lead Developer of HazakuraComp**, My job is to fix problems related to bot handling.
+I am known as a WhatsApp bot staff, namely the Psycho bot or previously known as the Volks bot. I'm here working as **Lead Developer of PsychoCrash**, My job is to fix problems related to bot handling.
 
 Second Account & Company:
 
