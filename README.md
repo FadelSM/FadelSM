@@ -58,16 +58,16 @@ My Biography Data..
 
 ```python
  class developer:
-         username = 'Renata'
+         username = 'Fadel'
                 current_status = 'Learning'
                 biograph = [
-                            fullname : "Fadel",
+                            fullname : "FadelShafwan",
                             adress   : "Indonesian",
                             birthday : "Jun - 11"
                         ]
 
         def adress():
-                return palu_indonesia()
+                return jakarta_indonesia()
 
         def Hobby():
                 Reading manga/manhwa()
@@ -207,43 +207,6 @@ Bot.exe #for windows
 5. **Step Five:** Open WhatsApp then scan the QR code from the terminal..
 
 and your bot succes' to started...
-
-<h1 align="center">Thanks4</h1>
-
-Thanks for those user who already supports me until now, there is best developer that I have ever met..
-
-
-
-
-<img src="https://github.com/Piahn.png" width="100" height="100" style="border-radius: 50%;" />
-
-**Piahn Wijaya**
-as someone who has taught me to make a WhatsApp bot until now, He is also the owner of PihzzBot..
-
- [![Github](https://img.shields.io/badge/Piahnz-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
-
-<img src="https://github.com/HazakuraComp.png" width="100" height="100" style="border-radius: 50%;" />
-
-**Hazakura Federation**
-as an organization that made me develop this far.. and teach me how to developing bots.
-
- [![Github](https://img.shields.io/badge/HazakuraComp-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HazakuraComp)
-
- <img src="https://github.com/SyarzzNF.png" width="100" height="100" style="border-radius: 50%;" />
-
-**SyarzzHaruu**
-as an former developer and developer of shizuno company, for teach me how to developing rest api, and teach me about backend..
-
- [![Github](https://img.shields.io/badge/SyarzzNF-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyarzzNF)
-
-<img src="https://github.com/vanzzkece.png" width="100" height="100" style="border-radius: 50%;" />
-
-**Vanzzketceh**
-as a former developer too, he helped a lot in developing my WhatsApp bot. and other developments too...
-
- [![Github](https://img.shields.io/badge/Vanzzketceh-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanzzkece)
-
-I am very grateful to the great people above who have helped me to build my own bot from 0 until now..
 
 ## Warn
 Please read the information below for more details about this account.
