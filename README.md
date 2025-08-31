@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-Moelmo&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-FadelSM&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## Hai Kawan 👋
 ---
 
-<!-- ![Moelmo](img/github-header-image.png)
+<!-- ![FadelSM](img/github-header-image.png)
 ![Moelmo](img/FadelSM.gif) -->
-<!-- <img src="img/github-header-image.png" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;"> -->
-<img src="img/Moelmo.gif" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;">
+<!-- <img src="img/github-header-image.png" alt="FadelSM" style="width: 100vw; height: auto; object-fit: contain;"> -->
+<img src="img/FadelSM.gif" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;">
 
 ---
 
@@ -16,11 +16,11 @@
 
 Saya hanyalah seorang programmer biasa yang ingin jadi handal, tapi kenyataannya kadang mager banget ngoding. Walau begitu, rasa penasaran buat bikin hal-hal keren masih terus membara (walau sering nunggu mood dulu 😅).
 
-Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksperimen coding terasa fun. Dari proyek iseng, sampai tools sederhana buat produktivitas, saya percaya bahwa proses belajar yang menyenangkan itu lebih penting dari hasil cepat.
+Saya suka ngulik Python dan JavaScript — bahasa serba guna yang bikin eksperimen coding terasa fun. Dari proyek iseng, sampai tools sederhana buat produktivitas, saya percaya bahwa proses belajar yang menyenangkan itu lebih penting dari hasil cepat.
 
 > "Ngoding santai, tapi tetap jalan. Yang penting ngulik, bukan buru-buru jago."
 
-> 🌱 Saat ini lagi ngulik [**Python**](https://www.python.org/) dan [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+> 🌱 Saat ini lagi ngulik [**Python**](https://www.python.org/) dan [**JavaScript**](
 
 ---
 
@@ -39,14 +39,14 @@ Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksp
 ### 🌐 Sosial Media
 
 <p align="center">
-  <a href="https://instagram.com/moelmo57">
-    <img src="https://img.shields.io/badge/Instagram-@moelmo57-purple?logo=instagram&style=for-the-badge" alt="Instagram">
+  <a href="https://instagram.com/fadelshafwanmaliki">
+    <img src="https://img.shields.io/badge/Instagram-@fadelshafwanmaliki-purple?logo=instagram&style=for-the-badge" alt="Instagram">
   </a>
-  <a href="https://tiktok.com/@moelmo57">
-    <img src="https://img.shields.io/badge/TikTok-@moelmo57-black?logo=tiktok&style=for-the-badge" alt="TikTok">
+  <a href="https://tiktok.com/@FadelSM">
+    <img src="https://img.shields.io/badge/TikTok-@FadelSM-black?logo=tiktok&style=for-the-badge" alt="TikTok">
   </a>
-  <a href="https://discord.com/users/1165534053273976852">
-    <img src="https://img.shields.io/badge/Discord-Moelmo-5865F2?logo=discord&style=for-the-badge" alt="Discord">
+  <a href="https://discord.com/users/-">
+    <img src="https://img.shields.io/badge/Discord-FadelSM-5865F2?logo=discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
 
@@ -55,9 +55,9 @@ Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksp
 ### 📈 **Statistik GitHub Saya**
 
 <p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moelmo&theme=radical" alt="GitHub Contributions"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Moelmo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moelmo&layout=compact&langs_count=6&theme=radical" alt="Top Languages">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadelSM&theme=radical" alt="GitHub Contributions"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FadelSM&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadelSM&layout=compact&langs_count=6&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -75,10 +75,10 @@ Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksp
 ## 📩 **Kontak**
 
 <div align="center">
-  <a href="mailto:moemo165@gmail.com">
+  <a href="mailto:fadelshafwanmaliki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://discord.com/users/1165534053273976852">
+  <a href="https://discord.com/users/-">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
@@ -87,6 +87,6 @@ Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksp
 
 ### 🐍 Play with me
 
-<img src="https://raw.githubusercontent.com/Moelmo/Moelmo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FadelSM/FadelSM/output/snake.svg" alt="Snake animation" />
 
 ---
