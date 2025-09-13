@@ -1,87 +1,106 @@
-### Hi there 👋
-
-<!--
-**FadelSM/FadelSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadelsm/kevlog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadelsm/kevlog/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fadelsm/kevlog/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.3%20thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                70 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.32 % 
-🌆 Daytime                190 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.58 % 
-🌃 Evening                148 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.39 % 
-🌙 Night                  49 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.72 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   63 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.79 % 
-Tuesday                  67 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.66 % 
-Wednesday                61 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.35 % 
-Thursday                 97 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.23 % 
-Friday                   76 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.63 % 
-Saturday                 50 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.94 % 
-Sunday                   43 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.41 % 
-```
+# 🏄‍♂️ Fadel Shafwan Maliki ~ 
 
 
-📊 **This Week I Spent My Time On** 
+**`Only human(Developer/Weeabo/Rangers Green)`**
 
-```text
-🕑︎ Time Zone: Asia/Bangkok
+## My favorite tools and technologies ⚙️
 
-💬 Programming Languages: 
-HTML                     36 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.25 % 
-JavaScript               22 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.10 % 
-JSON                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.97 % 
-CSS                      1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.68 % 
+> Tools and technologies that I have worked with and am interested in
 
-🔥 Editors: 
-VS Code                  1 hr 1 min          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="mysql" />
+            <br>Java
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
+            <br>React Js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+            <br>JQuery
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+                width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+                width="48" height="48" alt="GitHub" />
+            <br>Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"
+                width="48" height="48" alt="GitLab" />
+            <br>GitLab
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="tailwind" />
+            <br>Figma
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="jquery" />
+            <br>Linux
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="jquery" />
+            <br>Bash
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+            <br>Docker
+        </td>
+    </tr>
+</table>
 
-🐱‍💻 Projects: 
-green-pink               1 hr 1 min          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
-💻 Operating System: 
-Windows                  1 hr 1 min          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
+<!-- ## Github stats 📊
 
-**I Mostly Code in C#** 
+<details>
+    <summary>GitHub Profile Stats 💻</summary>
+    <br />
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=fadelsm&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" border="none" />
+    
+</details>
 
-```text
-C#                       12 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.33 % 
-HTML                     8 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.22 % 
-Python                   7 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.44 % 
-JavaScript               5 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.89 % 
-CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.78 % 
-```
+<details>
+    <summary>Activity Graph 📈</summary>
+    <br />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fadelsm&custom_title=Fadel%20Shafwan%20Maliki%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true" />
+</details>
 
-
-
-
- Last Updated on 03/09/2025 17:18:55 UTC
-<!--END_SECTION:waka-->
+<details> -->
+<!--     <summary>Profile Views 👁️</summary> -->
+ 
+   
+<!-- 
+</details> -->
+ <img src="https://komarev.com/ghpvc/?username=fadelsm&label=PROFILE+VIEWS&style=flat&color=blue">
