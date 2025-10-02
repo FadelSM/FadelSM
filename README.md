@@ -1,4 +1,4 @@
-# 🏄‍♂️ Fadel Shafwan Maliki ~ 
+# Fadel Shafwan Maliki ~ 
 
 
 **`Only human(Developer/Weeabo/Rangers Green)`**
