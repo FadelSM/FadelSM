@@ -121,7 +121,7 @@
 <details>
   <summary><b> HoloPin Badges </b></summary>
   
-[![@fadelsm's Holopin board](https://holopin.me/fadelsm)](https://holopin.io/@fadelsm)
+<img src="/assets/halopin.png" width="1536px" height="512px" />
 
 </details><br/>
 
