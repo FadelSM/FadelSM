@@ -96,10 +96,6 @@
 | 27 | [Stackoverflow-Analysis](https://github.com/recodehive/Stackoverflow-Analysis) | PR (Merged) | [#128](https://github.com/recodehive/Stackoverflow-Analysis/pull/128) |
 </div>
 
-### <b>My GitHub Stats</b>
-![skyline FadelSM](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA1ZGI3OGJlYmM4MDQxMzM2ZWI0MTNmMzgxZTY0MDdhYmUwZTFlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/efvMgTlIzR3dZPk71e/giphy.gif)
-
-
 # 🏆 Trophies
 
 <div align="center">
