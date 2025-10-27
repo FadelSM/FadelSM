@@ -121,7 +121,7 @@
 <details>
   <summary><b> HoloPin Badges </b></summary>
   
-[![@asymtode712's Holopin board](https://holopin.me/FadelSM)](https://holopin.io/@FadelSM)
+[![@FadelSM's Holopin board](https://holopin.me/FadelSM)](https://holopin.io/@FadelSM)
 
 </details><br/>
 
