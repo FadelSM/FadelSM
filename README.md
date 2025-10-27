@@ -121,7 +121,7 @@
 <details>
   <summary><b> HoloPin Badges </b></summary>
   
-<img src="/assets/halopin.png" width="1536px" height="512px" />
+<img src="/assets/holopin.png" width="1536px" height="512px" />
 
 </details><br/>
 
