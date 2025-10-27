@@ -132,8 +132,8 @@
 </p>
 
 <p align="center">
-  <a href="https://fadelsm.github.io/code-payment-free/" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  <a href="https://fadelsmpayment.vercel.app/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support" width="150"/>
   </a>
 </p>
 
