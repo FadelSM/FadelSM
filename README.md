@@ -126,7 +126,9 @@ Saya suka ngulik Web Development, IoT, Jaringan, dan Bot Telegram.
 
 <p align="center">
    💡Quote
+  
 "Jika Anda terlahir miskin itu bukan salah Anda, tetapi jika Anda meninggal miskin itu salah Anda sendiri."
+
 — Bill Gates
 </p>
 
