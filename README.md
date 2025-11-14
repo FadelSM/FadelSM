@@ -125,13 +125,9 @@ Saya suka ngulik Web Development, IoT, Jaringan, dan Bot Telegram.
 <hr>
 
 <p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="https://fadelsmpayment.vercel.app/" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support" width="150"/>
-  </a>
+   💡Quote
+"Jika Anda terlahir miskin itu bukan salah Anda, tetapi jika Anda meninggal miskin itu salah Anda sendiri."
+— Bill Gates
 </p>
 
 <hr>
