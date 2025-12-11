@@ -37,7 +37,7 @@ Saya suka ngulik Web Development, IoT, Jaringan, dan Bot Telegram.
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,cpp,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,mongodb,mysql,threejs,django,next,postman,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
 </a>
 
 </div>
