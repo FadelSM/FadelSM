@@ -1,0 +1,115 @@
+ <svg width="720" height="360" viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#0066FF"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .bg { fill:#0b1220; rx:18 }
+    .title { fill:#00F7FF; font:20px monospace; font-weight:bold }
+    .label { fill:#9AE6F5; font:14px monospace }
+    .track { fill:none; stroke:#1f2937; stroke-width:10 }
+    .progress {
+      fill:none; 
+      stroke:url(#grad); 
+      stroke-width:10; 
+      stroke-linecap:round;
+      transform: rotate(-90deg);
+      transform-origin: 50% 50%;
+      transition: stroke-dashoffset 1s ease-out;
+    }
+    .percent { fill:#00F7FF; font:13px monospace; font-weight:bold }
+    .tooltip { font:12px monospace; fill:#fff; opacity:0; pointer-events:none }
+    g:hover .tooltip { opacity:1 }
+  </style>
+
+  <rect width="720" height="360" class="bg"/>
+
+  <text x="360" y="32" text-anchor="middle" class="title">Backend Stack</text>
+
+  <!-- Function to create a skill circle -->
+  <!-- ROW 1 -->
+  <g transform="translate(110 120)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="40">
+      <animate attributeName="stroke-dashoffset" from="201" to="40" dur="1.1s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">80%</text>
+    <text y="54" text-anchor="middle" class="label">Node.js</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in Node.js backend</text>
+  </g>
+
+  <g transform="translate(260 120)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="60">
+      <animate attributeName="stroke-dashoffset" from="201" to="60" dur="1.2s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">70%</text>
+    <text y="54" text-anchor="middle" class="label">Python</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in Python backend</text>
+  </g>
+
+  <g transform="translate(410 120)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="50">
+      <animate attributeName="stroke-dashoffset" from="201" to="50" dur="1.3s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">75%</text>
+    <text y="54" text-anchor="middle" class="label">PHP</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in PHP backend</text>
+  </g>
+
+  <g transform="translate(560 120)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="90">
+      <animate attributeName="stroke-dashoffset" from="201" to="90" dur="1.4s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">55%</text>
+    <text y="54" text-anchor="middle" class="label">Java</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in Java backend</text>
+  </g>
+
+  <!-- ROW 2 -->
+  <g transform="translate(110 240)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="60">
+      <animate attributeName="stroke-dashoffset" from="201" to="60" dur="1.5s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">70%</text>
+    <text y="54" text-anchor="middle" class="label">MySQL</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in MySQL</text>
+  </g>
+
+  <g transform="translate(260 240)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="70">
+      <animate attributeName="stroke-dashoffset" from="201" to="70" dur="1.6s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">65%</text>
+    <text y="54" text-anchor="middle" class="label">Postgres</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in Postgres</text>
+  </g>
+
+  <g transform="translate(410 240)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="55">
+      <animate attributeName="stroke-dashoffset" from="201" to="55" dur="1.7s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">73%</text>
+    <text y="54" text-anchor="middle" class="label">MongoDB</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in MongoDB</text>
+  </g>
+
+  <g transform="translate(560 240)">
+    <circle r="32" class="track"/>
+    <circle r="32" class="progress" stroke-dasharray="201" stroke-dashoffset="45">
+      <animate attributeName="stroke-dashoffset" from="201" to="45" dur="1.8s" fill="freeze"/>
+    </circle>
+    <text y="4" text-anchor="middle" class="percent">78%</text>
+    <text y="54" text-anchor="middle" class="label">Firebase</text>
+    <text x="0" y="-45" text-anchor="middle" class="tooltip">Experienced in Firebase</text>
+  </g>
+
+</svg>

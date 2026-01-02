@@ -1,0 +1,66 @@
+<svg width="700" height="380" viewBox="0 0 700 380"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .bg { fill:#0b1220 }
+    .label { fill:#9AE6F5; font:14px monospace }
+    .bar-bg { fill:#1f2937 }
+    .bar { fill:#00F7FF }
+    .percent { fill:#00F7FF; font:12px monospace }
+    .title { fill:#00F7FF; font:18px monospace; font-weight:bold }
+  </style>
+
+  <rect width="700" height="380" class="bg"/>
+
+  <text x="20" y="30" class="title">Frontend Stack</text>
+
+  <text x="20" y="70" class="label">HTML</text>
+  <rect x="180" y="58" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="58" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="408" dur="1.1s" fill="freeze"/>
+  </rect>
+  <text x="670" y="70" class="percent">85%</text>
+
+  <text x="20" y="110" class="label">CSS</text>
+  <rect x="180" y="98" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="98" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="432" dur="1.2s" fill="freeze"/>
+  </rect>
+  <text x="670" y="110" class="percent">90%</text>
+
+  <text x="20" y="150" class="label">JavaScript</text>
+  <rect x="180" y="138" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="138" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="456" dur="1.3s" fill="freeze"/>
+  </rect>
+  <text x="670" y="150" class="percent">95%</text>
+
+  <text x="20" y="190" class="label">React</text>
+  <rect x="180" y="178" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="178" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="254" dur="1.4s" fill="freeze"/>
+  </rect>
+  <text x="670" y="190" class="percent">53%</text>
+
+  <text x="20" y="230" class="label">Vue</text>
+  <rect x="180" y="218" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="218" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="264" dur="1.5s" fill="freeze"/>
+  </rect>
+  <text x="670" y="230" class="percent">55%</text>
+
+  <text x="20" y="270" class="label">Angular</text>
+  <rect x="180" y="258" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="258" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="226" dur="1.6s" fill="freeze"/>
+  </rect>
+  <text x="670" y="270" class="percent">47%</text>
+
+  <text x="20" y="310" class="label">Laravel</text>
+  <rect x="180" y="298" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="298" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="245" dur="1.7s" fill="freeze"/>
+  </rect>
+  <text x="670" y="310" class="percent">51%</text>
+
+</svg>
