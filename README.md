@@ -65,3 +65,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FadelSM&label=Profile%20Views&color=00F7FF&style=flat-square" />
 </p>
+
+<div align="center" style="margin: 30px 0;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
+         style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
