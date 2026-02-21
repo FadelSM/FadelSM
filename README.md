@@ -44,7 +44,7 @@
 ## ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadelSM&theme=react-dark&bg_color=00000000&color=00F7FF&line=00F7FF&point=9AE6F5&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadelSM&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
 </p>
 
 ---
