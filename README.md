@@ -37,7 +37,7 @@
 ## ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FadelSM&show_icons=false&theme=transparent&title_color=00F7FF&text_color=9AE6F5&border_color=00F7FF" height="170" />
+  <img src="https://repobeats.axiom.co/api/embed/8dac388910be60e97a4fbc41984599ee286b806a.svg" height="170" />
 
 ---
 
