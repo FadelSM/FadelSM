@@ -37,7 +37,7 @@
 ## ANALYTICS
 
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/8dac388910be60e97a4fbc41984599ee286b806a.svg" height="170" />
+  <img src="https://repobeats.axiom.co/api/embed/f146155c2ea2daf4486b8353f1ef60b80504de68.svg" height="170" />
 
 ---
 
