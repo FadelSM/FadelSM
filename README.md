@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://github.com/hurtki/github-banners" target="_blank">
-    <img src="https://api.bnrs.dev/banners/FadelSM-dark?a=xnte65" alt="Banner" />
+    <img src="https://api.bnrs.dev/banners/fadelsm-dark?a=xnte65" alt="Banner" />
   </a>
 </div>
 
