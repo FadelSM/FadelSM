@@ -18,20 +18,6 @@
 
 ---
 
-## TECH STACK
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" /><br/>
-  <img src="https://skillicons.dev/icons?i=php,java,cpp,c,go" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,webpack,docker" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash" /><br/>
-  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,vercel,netlify,aws" />
-</p>
-
----
-
 ## FRONTEND
 
 <p align="center">
