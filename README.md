@@ -10,7 +10,7 @@
 
 </div>
 
-# 𝗛𝗶, 𝗜'𝗺 𝗙𝗮𝗱𝗲𝗹
+# 𝗛𝗶, 𝗜'𝗺 𝗙𝗮𝗱𝗲𝗹SM
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;FRONTEND+DEVELOPER;BACKEND+DEVELOPER;WHATSAPP+API" />
