@@ -54,7 +54,7 @@
   <a href="https://whatsapp.com/channel/0029VaxkfpeG8l55XNsBaq3Q">
     <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
-  <a href="https://t.me/FADELSM">
+  <a href="https://t.me/FADELSMGantengBangett">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=00F7FF" />
   </a>
 </p>
