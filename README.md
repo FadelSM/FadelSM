@@ -1,7 +1,14 @@
 
-<p align="center">
-  <a href="https://portofoliofadel.web.id"><strong>View Portfolio</strong></a>
+<div align="center">
+  <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
+  <p align="center"> 
+  <a href="https://fadelsm.ai.id">
+  <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
+</a>
 </p>
+  
+
+</div>
 
 # 𝗛𝗶, 𝗜'𝗺 𝗙𝗮𝗱𝗲𝗹
 
