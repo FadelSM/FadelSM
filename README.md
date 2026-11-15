@@ -1,3 +1,10 @@
+# 𝗛𝗶, 𝗜'𝗺 𝗙𝗮𝗱𝗲𝗹SM
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;FRONTEND+DEVELOPER;BACKEND+DEVELOPER;WHATSAPP+API" />
+</p>
+
+---
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/4ASafy0.png"  />
@@ -15,14 +22,6 @@
     <img src="https://github.com/FadelSM/FadelSM/blob/main/img/about_me.gif?raw=true" width="100px">
   </picture>
 </div>
-
-# 𝗛𝗶, 𝗜'𝗺 𝗙𝗮𝗱𝗲𝗹SM
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;FRONTEND+DEVELOPER;BACKEND+DEVELOPER;WHATSAPP+API" />
-</p>
-
----
 
 ## FRONTEND
 
