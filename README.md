@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+  <picture>
+    <img src="https://github.com/FadelSM/FadelSM/blob/main/img/about_me.gif?raw=true" width="100px">
+  </picture>
+</div>
+
 # 𝗛𝗶, 𝗜'𝗺 𝗙𝗮𝗱𝗲𝗹SM
 
 <p align="center">
