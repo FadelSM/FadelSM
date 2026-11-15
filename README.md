@@ -48,7 +48,7 @@
 ## ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadelSM&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadelSM&theme=tokyonight&hide_border=true&fire=0096FF&ring=0096FF&currStreakNum=fff" />
 </p>
 
 ---
